@@ -1,7 +1,7 @@
 import Title from "./components/Title";
 import Counter from "./components/Counter";
 
-import BirthdayWpp from "./assets/BirthdayWpp.jpg"
+import BirthdayWpp from "./assets/birthdaywpp.jpg"
 
 import useCountdown from "./hooks/useCountdown";
 
