@@ -21,6 +21,7 @@ function App() {
             <Counter title="Minutos" number={minute} />
             <Counter title="Segundos" number={second} />
           </div>
+          <Title title="Te amo meu amor" />
         </div>
       </div>
     </>
